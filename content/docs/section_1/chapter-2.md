@@ -1,10 +1,10 @@
-+++
-img_path = ""
-layout = "page"
-subtitle = ""
-title = "Chapter 2"
+---
+title: Typography
+weight: 1
+layout: docs
+excerpt: ''
 
-+++
+---
 njnjrnckrevc
 
 $$z_2$$
