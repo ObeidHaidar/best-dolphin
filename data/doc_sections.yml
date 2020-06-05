@@ -1,6 +1,7 @@
 ---
 root_folder: "/docs/"
 sections:
+- section_1
 - about
 - getting-started
 - manage-content
