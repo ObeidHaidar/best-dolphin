@@ -106,7 +106,6 @@ This is an "Note" callout block of text.
 This block signifies a general note.
 </div>
 
-
 image below
 
 ![](/images/7.jpg)
@@ -117,6 +116,10 @@ image below
 
 hhhhkjlklnul
 
-
 $$x_2$$
 
+$x_2$
+
+\\[x_2\\]
+
+\\(x_2\\)
