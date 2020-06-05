@@ -1,12 +1,12 @@
-+++
-img_path = ""
-layout = "page"
-subtitle = "test test test"
-title = "Solution Manual"
-[menu.main]
-weight = 4
+---
+title: Solution Manual
+layout: docs
+menu:
+  main:
+    name: Solution Manual
+    weight: 5
 
-+++
+---
 sections and stuff
 
 $$x_2$$
