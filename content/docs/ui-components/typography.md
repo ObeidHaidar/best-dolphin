@@ -5,7 +5,6 @@ layout: docs
 excerpt: ''
 
 ---
-
 <div class="note">
 <strong>Note:</strong>
 This is the demo content for demonstration purpose only. The primary function of this content is to show you what this theme can do. There is a more detailed explanation in the <strong>Getting Started</strong> section.
@@ -109,7 +108,7 @@ This block signifies a general note.
 
 $\\dot{\\theta}=\\displaystyle \\frac{v}{L}\\tan{\\gamma}$
 
-\\\[\\gamma\\\]
+\\[\gamma\\]
 
 image below
 
@@ -121,6 +120,6 @@ image below
 
 hhhhkjlklnul
 
-\\\\(x_2\\\\).
+\\(x_2\\).
 
 $$x_2$$
