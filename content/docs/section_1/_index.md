@@ -1,7 +1,7 @@
-title: Section 1
-excerpt: >-
-  First section of book.
-layout: docs
----
++++
+title = "Section 1"
+
++++
+## layout: docs
 
 test test
