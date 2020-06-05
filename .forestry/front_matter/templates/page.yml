@@ -24,4 +24,5 @@ fields:
   config:
     required: true
 pages:
+- content/Solution Manual/solution-manual.md
 - content/style-guide.md
