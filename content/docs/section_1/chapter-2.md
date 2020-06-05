@@ -1,7 +1,7 @@
 +++
 img_path = ""
 layout = "page"
-subtitle = "jsncdnosc"
+subtitle = ""
 title = "Chapter 2"
 
 +++
