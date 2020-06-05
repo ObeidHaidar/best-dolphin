@@ -106,4 +106,6 @@ This is an "Note" callout block of text.
 This block signifies a general note.
 </div>
 
+image below
+
 ![](/images/7.jpg)
