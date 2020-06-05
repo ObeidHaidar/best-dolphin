@@ -108,7 +108,9 @@ This block signifies a general note.
 
 $\dot{\theta}=\displaystyle \frac{v}{L}\tan{\gamma}$
 
-$\gamma$
+$$\gamma$$
+
+
 image below
 
 ![](/images/7.jpg)
