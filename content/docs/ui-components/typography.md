@@ -120,4 +120,3 @@ hhhhkjlklnul
 
 $$x_2$$
 
-$x_2$
