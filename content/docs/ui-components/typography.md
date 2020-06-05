@@ -106,6 +106,9 @@ This is an "Note" callout block of text.
 This block signifies a general note.
 </div>
 
+$\dot{\theta}=\displaystyle \frac{v}{L}\tan{\gamma}$
+
+$\gamma$
 image below
 
 ![](/images/7.jpg)
